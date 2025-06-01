@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm ezysnippet
 
-<!--
-**ezySnippet/ezySnippet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full-Stack Developer | Passionate about building modern web applications
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Tools**: Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- TypeScript
+- Next.js
+- DevOps Basics (Docker, CI/CD)
+
+## 📌 Projects I'm Working On
+- 🔧 Personal Portfolio
+- 📂 A code snippet manager (stay tuned!)
+
+## 📫 How to Reach Me
+- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Portfolio](https://your-portfolio.com)
+
+## 💡 Fun Fact
+I love breaking complex problems into simple solutions — and I'm a big fan of clean UI/UX!
+
+---
+
+Thanks for visiting my profile! 😊  
+Let’s connect and build something amazing together!
